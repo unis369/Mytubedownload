@@ -8,13 +8,15 @@ from download_youtube_video import download_youtube_video
 
 
 def get_header():
+    # define empty header
     return """\
      """
 
 
 def get_footer():
-    return """\n
-       \n\n\n
+    #  define empty footer
+    return """\
+       
     """
 
 
