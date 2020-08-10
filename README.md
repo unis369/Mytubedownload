@@ -2,16 +2,9 @@
 A simple application written in Python3 to download YouTube videos.
 These videos can also be downloaded as audio.
 
-![GUI Screenshot](assets/gui_screenshot.png)
-
-![GUI Screenshot Linux](assets/gui_screenshot_linux.png)
 
 ### Download Pre-Built Binaries
-Unless you are wanting to use the CLI or do something with the
-scripts themselves, you are most likely looking for the binaries.
-* [Download Windows](https://github.com/YouTubeDownload/YouTubeDownload/releases/download/v2.2/YouTube.Download.exe)
-* [Download Linux](https://github.com/YouTubeDownload/YouTubeDownload/releases/download/v2.2/YouTubeDownload-linux)
-* [Download Mac](https://github.com/YouTubeDownload/YouTubeDownload/releases/download/v2.2/YouTube.Download.app.gz)
+you are most download the binaries.
 
 ### Scripts Installation
 1. Clone the Repo
